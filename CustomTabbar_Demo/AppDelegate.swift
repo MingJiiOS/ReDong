@@ -20,6 +20,14 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         self.window!.rootViewController = nav
         self.window!.backgroundColor = UIColor.whiteColor()
         self.window!.makeKeyAndVisible()
+        
+        
+        
+        
+        
+        
+        
+        //  1234567
         return true
     }
 
